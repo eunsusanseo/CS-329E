@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoEun-hw3/PeopleTableViewController.swift"
+            timestampString = "508738963.714504"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoEun_hw3.PeopleTableViewController.(people in _499C3DF995D26B90111CBF57D6F84FBD).getter : Swift.Array&lt;SeoEun_hw3.Person&gt;"
+                  moduleName = "SeoEun-hw3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/susanseo/Google%20Drive/2017%20Spring/CS/Examples/SeoEun-hw3/SeoEun-hw3/PeopleTableViewController.swift"
+                  timestampString = "508737268.826621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoEun_hw3.PeopleTableViewController.init (style : __C.UITableViewStyle) -&gt; SeoEun_hw3.PeopleTableViewController"
+                  moduleName = "SeoEun-hw3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/susanseo/Google%20Drive/2017%20Spring/CS/Examples/SeoEun-hw3/SeoEun-hw3/PeopleTableViewController.swift"
+                  timestampString = "508737268.82928"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoEun_hw3.PeopleTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SeoEun_hw3.PeopleTableViewController"
+                  moduleName = "SeoEun-hw3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/susanseo/Google%20Drive/2017%20Spring/CS/Examples/SeoEun-hw3/SeoEun-hw3/PeopleTableViewController.swift"
+                  timestampString = "508737268.830665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SeoEun_hw3.PeopleTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SeoEun_hw3.PeopleTableViewController&gt;"
+                  moduleName = "SeoEun-hw3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/susanseo/Google%20Drive/2017%20Spring/CS/Examples/SeoEun-hw3/SeoEun-hw3/PeopleTableViewController.swift"
+                  timestampString = "508737268.831953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoEun-hw3/PeopleTableViewController.swift"
+            timestampString = "508738963.714504"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "createDataModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SeoEun-hw3/PersonViewController.swift"
+            timestampString = "508740691.499488"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
